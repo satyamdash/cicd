@@ -19,4 +19,4 @@ jobs:
           go-version: "1.25.1"
 
       - name: Run tests
-        run: cd internal/auth go test -cover
+        run: cd internal/auth && go test -cover
