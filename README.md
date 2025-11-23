@@ -1,4 +1,4 @@
-![Pipeline status] https://github.com/satyamdash/cicd/actions/workflows/ci.yml/badge.svg
+![Pipeline status](https://github.com/satyamdash/cicd/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
